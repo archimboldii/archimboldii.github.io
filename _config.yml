@@ -1,0 +1,11 @@
+title: Archimboldi
+email: vonarchimboldi@protonmail.com
+description: Archimboldi's website
+url: "https://archimboldii.github.io"
+twitter: @archimboldii
+
+baseurl: ""
+permalink: /:categories/:title:output_ext
+markdown: kramdown
+plugins:
+  - jekyll-feed
