@@ -58,6 +58,14 @@ hr {
   border-top: 1px solid #eee; 
 }
 
+blockquote {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 25px;
+  padding-left: 15px;
+  border-left: 3px solid #ccc;
+}
+
 .muted {
   color: #aaa;
   text-decoration: none; 
