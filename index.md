@@ -1,4 +1,4 @@
 ---
 layout: home
 ---
-Hello. [About me](/about/).
+Hello. [About](/about/)  |  [Books](/books/)  |  [All notes](/all-notes/)
