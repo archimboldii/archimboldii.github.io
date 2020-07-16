@@ -19,6 +19,7 @@ permalink: /links/
 
 
 * [Lee Kuan Yew reflects](http://content.time.com/time/subscriber/printout/0,8816,1137705,00.html)
+
 > TIME: Do you like American society now?
 >
 > LEE: I admire American society. But I would not want to live there permanently. If I had to be a refugee, like [former South Vietnamese Prime Minister Nguyen] Cao Ky, who went to California, I would choose Britain, a less stressful society. [But Americans have] a can-do approach to life: everything can be broken up, analyzed, and redefined. Whether it can or it can't, Americans believe it can be solved, given enough money, research and effort. Over the years I have watched the Americans revise and restructure their economy, after they were going down in the 1980s, when Japan and Germany looked like eclipsing America, taking over all the manufacturing. Americans came roaring back. [They] have the superior system. It's more competitive.
