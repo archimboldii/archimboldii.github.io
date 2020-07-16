@@ -2,8 +2,8 @@
 layout: post
 title:	First post
 date:	2020-07-15
-author:	Archimboldii
-description: Test post
+author:	Archimboldi
+description: First post
 ogimage: opengraphimage.jpeg
 
 ---
