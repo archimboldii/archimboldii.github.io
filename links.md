@@ -9,7 +9,7 @@ permalink: /links/
 
 > life expectancy is actually extremely relevant to the cost of capital - perhaps the most relevant variable - and as human life expectancies have lengthened over time, it is logical to expect the cost of capital to have fallen (it is amazing to me that the economics discipline has never considered this reality - the discipline is shockingly closed-minded and ideological).
 
-* Scott Alexander, [1960: The Year The Singularity Was Cancelled](https://www.lesswrong.com/posts/bYrF8rXFYwPqnfxTp/1960-the-year-the-singularity-was-cancelled)
+* Scott Alexander, [1960: The year the singularity was cancelled](https://www.lesswrong.com/posts/bYrF8rXFYwPqnfxTp/1960-the-year-the-singularity-was-cancelled)
   * Was the industrial revolution actually the beginning of infinity?
 
 > the singularity got cancelled because we no longer have a surefire way to convert money into researchers. The old way was more money = more food = more population = more researchers. The new way is just more money = send more people to college, and screw all that.
