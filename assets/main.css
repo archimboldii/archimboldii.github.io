@@ -20,7 +20,8 @@ img {
 }
 
 a {
-  color: #FF662E;
+  color: #039be5;
+  /* color:#FF662E; */
   text-decoration: none;
 }
 
@@ -46,6 +47,22 @@ h3 {
 p {
   margin-top: 0.5em;
   margin-bottom: 1em;
+}
+
+ul {
+  list-style-type: bullet;
+  padding-top: 0px;
+  padding-right: 20px;
+  padding-bottom: 0px;
+  padding-left: 20px;
+}
+
+ol {
+  list-style-type: bullet;
+  padding-top: 0px;
+  padding-right: 20px;
+  padding-bottom: 0px;
+  padding-left: 20px;
 }
 
 li {
