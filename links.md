@@ -4,6 +4,8 @@ title: Links
 permalink: /links/
 ---
 
+A few of the best links on the internet. WIP.
+
 * Lyall Taylor, [Life expectancy and the cost of capital](https://lt3000.blogspot.com/2018/02/life-expectancy-and-cost-of-capital.html)
   * The discount rate is the most important revelation in philosophy of the last 1,000 years. It isn't just time preference, it implies all sorts of things about our collective expectations for the future of humanity.
 
