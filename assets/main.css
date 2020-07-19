@@ -78,9 +78,9 @@ hr {
 blockquote {
   margin-top: 10px;
   margin-bottom: 10px;
-  margin-left: 0px;
-  padding-left: 17px;
-  border-left: 3px solid #ccc;
+  margin-left: -13px;
+  padding-left: 10px;
+  border-left: 3px solid #333333;
 }
 
 .muted {
