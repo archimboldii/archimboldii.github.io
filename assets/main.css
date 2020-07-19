@@ -78,8 +78,8 @@ hr {
 blockquote {
   margin-top: 10px;
   margin-bottom: 10px;
-  margin-left: 25px;
-  padding-left: 15px;
+  margin-left: 0px;
+  padding-left: 17px;
   border-left: 3px solid #ccc;
 }
 
