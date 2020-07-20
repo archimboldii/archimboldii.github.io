@@ -16,6 +16,10 @@ A few of the best links on the internet. WIP.
 
 > the singularity got cancelled because we no longer have a surefire way to convert money into researchers. The old way was more money = more food = more population = more researchers. The new way is just more money = send more people to college, and screw all that.
 
+* Dan Rasmussen, [The gospel according to Michael Porter](https://www.institutionalinvestor.com/article/b15jm11km848qm/the-gospel-according-to-michael-porter)
+  * Commonly held beliefs about moats and competitive strategy don't hold up empirically.
+
+> This consensus around Porter’s ideas in the value investing community is jarring given how controversial those theories are elsewhere. Economists at the University of Chicago have thoroughly disproven any connection between market share and profitability; antitrust law once assumed that high market share was necessarily anticompetitive, but the courts abandoned that idea in the 1980s as lacking an empirical foundation.
 
 * Tanner Greer, [Questing for transcendence](https://scholars-stage.blogspot.com/2019/04/on-quests-for-transcendence.html)
   * Modernity and the meaning of life.
