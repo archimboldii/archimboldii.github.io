@@ -4,7 +4,7 @@ title: Links
 permalink: /links/
 ---
 
-**Ideas**
+### Ideas
 * Peter Thiel, [The Education of a Libertarian](https://www.cato-unbound.org/2009/04/13/peter-thiel/education-libertarian)
 * Peter Thiel, [The Optimistic Thought Experiment](https://www.hoover.org/research/optimistic-thought-experiment)
 * Bryan Caplan, [Against Human Weakness](https://www.econlib.org/archives/2009/09/against_human_w.html)
@@ -16,7 +16,7 @@ permalink: /links/
 * Scott Alexander, [Competing Selectors](https://slatestarcodex.com/2019/06/07/addendum-to-enormous-nutshell-competing-selectors/)
 
 **Economics**
-* * Scott Alexander, [1960: The Year the Singularity Was Cancelled](https://www.lesswrong.com/posts/bYrF8rXFYwPqnfxTp/1960-the-year-the-singularity-was-cancelled)
+* Scott Alexander, [1960: The Year the Singularity Was Cancelled](https://www.lesswrong.com/posts/bYrF8rXFYwPqnfxTp/1960-the-year-the-singularity-was-cancelled)
 
 **Philosophy**
 * David Chapman, [The Illusion of Understanding](https://meaningness.com/understanding)
