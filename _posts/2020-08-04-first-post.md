@@ -1,6 +1,6 @@
 ---
 layout: post
-title:	Daily notes
+title:	8/4 links
 date:	2020-08-04
 author:	Archimboldi
 description: Daily notes
