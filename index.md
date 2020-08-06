@@ -1,4 +1,4 @@
 ---
 layout: home
 ---
-[About](/about/)
+[About](/about/)  •  [Notes](/notes/)
