@@ -15,9 +15,9 @@ When I think of alcohol + conersvative, I think of fraternities, NASCAR, and hun
 
 ### 2020-08-11
 
-The boom in tech stocks during COVID is basically what the dot-com bubble was predicting, just 20 years too early. It took awhile for the infrastructure to put in place, but we’re finally at a point where software is a critical and resilient part of the economy.
+The boom in tech stocks during COVID is basically what the dot-com bubble predicted; it was just 20 years too early. Now that the infrastructure is built we’re finally seeing that software is a critical and resilient part of the economy.
 
 
 ### 2020-08-06
 
-What are the areas of discourse today that aren’t yet politicized, but will be soon? Commercial space technology will surely have enough policy implications to split the aisle. The specifics of US - China relations are still nascent and largely up for grabs.
+What ideas aren’t politicized today, but will be soon? Commercial space technology will surely have enough policy implications to split the aisle. The specifics of US - China relations are still nascent and largely up for grabs. What else?
