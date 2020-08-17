@@ -6,11 +6,11 @@ permalink: /notes/
 
 ### 2020-08-17
 
-Why is alcohol a conservative thing? When [Tyler Cowen interviewed Michael Pollan](https://conversationswithtyler.com/episodes/michael-pollan/), he implied that Nixon believed drinking made people more conservative:
+Why is alcohol a conservative thing? When [Tyler Cowen interviewed Michael Pollan](https://conversationswithtyler.com/episodes/michael-pollan/), he implied that Nixon thought drinking made people more conservative:
 
 > COWEN: Do you think psychoactive drugs affect people’s political views? Timothy Leary seemed to think they did. Nixon himself thought it made people into Commies or somehow not American. They ought to be drinking instead. That would make them more conservative.
 
-I can think of a few groups that skew conservative where alcohol is prevalent: fraternities, NASCAR, hunters and outdoorsmen. Why would alcohol be a conservative thing though? It makes people more promiscuous and open to trying new things. It sometimes even acts as a gateway to harder drugs which have a strong progressive connotation. 
+When I think of alcohol + conersvative, I think of fraternities, NASCAR, and hunters or outdoorsmen. Why would alcohol be a conservative thing though? It makes people more promiscuous and open to new ideas. It sometimes even acts as a gateway to harder drugs that are associated with hippies and progressives. 
 
 
 ### 2020-08-11
