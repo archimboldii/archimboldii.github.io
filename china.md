@@ -8,12 +8,11 @@ permalink: /china/
 *   Tanner Greer
     *   Xi Jinping and the laws of history [link](https://scholars-stage.blogspot.com/2020/07/xi-jinping-and-laws-of-history.html)
     *   Xi Jinping explains his political philosophy [link](https://scholars-stage.blogspot.com/2019/06/xi-jinping-explains-his-political.html)
-    *   The world that china wants
-        *   [Part 1](https://scholars-stage.blogspot.com/2020/04/the-world-that-china-wants-part-i-why.html)
-        *   [Part 2](https://scholars-stage.blogspot.com/2020/05/the-world-that-china-wants-ii-communist.html)
-        *   [Part 3](https://scholars-stage.blogspot.com/2020/06/the-world-that-china-wants-iii-taking.html)
+    *   The world that china wants ([Part 1](https://scholars-stage.blogspot.com/2020/04/the-world-that-china-wants-part-i-why.html), [Part 2](https://scholars-stage.blogspot.com/2020/05/the-world-that-china-wants-ii-communist.html), [Part 3](https://scholars-stage.blogspot.com/2020/06/the-world-that-china-wants-iii-taking.html))
+    *   Reflections on China’s Stalinist heritage ([Part 1](https://scholars-stage.blogspot.com/2019/01/reflections-on-chinas-stalinist.html), [Part 2](https://scholars-stage.blogspot.com/2019/03/reflections-on-chinas-stalinist.html))
     *   China winning control of global order (Tabletmag) [link](https://www.tabletmag.com/sections/news/articles/china-plans-global-order)
     *   Xi’s theory of history (Palladium) [link](https://palladiummag.com/2020/07/08/the-theory-of-history-that-guides-xi-jinping/)
+    *   Making sense of Chinese history: a reading list [link](https://scholars-stage.blogspot.com/2018/12/what-to-read-to-get-into-chinese-history.html)
 *   Andrew Bateson
     *   China’s security fears and the cold war economy [link](https://andrewbatson.com/2020/07/06/chinas-security-fears-and-the-cold-war-economy/)
     *   What would it have cost China to support household incomes [link](https://andrewbatson.com/2020/08/09/what-would-it-have-cost-china-to-support-household-incomes/)
@@ -33,7 +32,7 @@ permalink: /china/
 *   Jordan Schneider
     *   The US is right to worry about TikTok [link](https://www.lawfareblog.com/us-right-worry-about-tiktok)
     *   TikTok, Trump, and Huawei [link](https://chinatalk.substack.com/p/tiktok-trump-as-c-rate-banker-huaweis)
-*   Ben Thompson
+*   Ben Thompson points out that China’s vision for the future is fundamentally different than the West’s. We need to recognize that the battle ahead is both economic and ideological.
     *   The TikTok war [link](https://stratechery.com/2020/the-tiktok-war/)
     *   The China cultural clash [link](https://stratechery.com/2019/the-china-cultural-clash/)
     *   China, leverage, and values [link](https://stratechery.com/2019/china-leverage-and-values/)
