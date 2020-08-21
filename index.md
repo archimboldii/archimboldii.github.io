@@ -1,7 +1,7 @@
 ---
 layout: home
 ---
-[About](/about/)
+[About](/about/)  
 [Posts](/posts/)  
-[Notes](/notes/)
-[Links](/links/)
+[Notes](/notes/)  
+[Links](/links/)  
