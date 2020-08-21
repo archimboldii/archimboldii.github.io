@@ -4,9 +4,9 @@ title: China
 permalink: /china/
 ---
 
-**John Garnaut**
+**[John Garnaut](https://twitter.com/jgarnaut)**
 
-Notes on Engineers of the Soul: Ideology in Xi Jinping's China [link](https://sinocism.com/p/engineers-of-the-soul-ideology-in)
+Notes on [Engineers of the Soul: Ideology in Xi Jinping's China](https://sinocism.com/p/engineers-of-the-soul-ideology-in)
 
 
 
@@ -30,11 +30,9 @@ Notes on Engineers of the Soul: Ideology in Xi Jinping's China [link](https://si
 *   The CCP exists, and therefore it is under attack. This will always be true. Without the conspiracy of Western liberalism the CCP loses its reason for existence.
 *   The key point about Communist Party ideology is that the party has always defined itself as being in perpetual struggle with the “hostile” forces of Western liberalism.
 
-**Tanner Greer**
+**[Tanner Greer](https://twitter.com/Scholars_Stage)**
 
-Notes on Reflections on China’s Stalinist Heritage ([Part 1](https://scholars-stage.blogspot.com/2019/01/reflections-on-chinas-stalinist.html), [Part 2](https://scholars-stage.blogspot.com/2019/03/reflections-on-chinas-stalinist.html))
-
-Part I: A Tyrant's Toolkit
+Notes on [Reflections on China’s Stalinist Heritage Part I: A Tyrant's Toolkit](https://scholars-stage.blogspot.com/2019/01/reflections-on-chinas-stalinist.html)
 
 
 
@@ -42,7 +40,7 @@ Part I: A Tyrant's Toolkit
 *   According to Mao, what is meant by "the people" and "the enemy" are fluid concepts. The concept of "the people" varies in content in different countries and in different periods of history in a given country.
 *   The West is proof that a country does not need a one-party state to become powerful and wealthy. China has two options to deal with this: a) retreat and retrench; b) face the threat head on.
 
-Part II Just How Totalitarian is Modern China?
+Notes on [Reflections on China’s Stalinist Heritage Part II: Just How Totalitarian is Modern China?](https://scholars-stage.blogspot.com/2019/03/reflections-on-chinas-stalinist.html)
 
 
 
@@ -68,7 +66,7 @@ _More_
 *   Xi’s theory of history (Palladium) [link](https://palladiummag.com/2020/07/08/the-theory-of-history-that-guides-xi-jinping/)
 *   Making sense of Chinese history: a reading list [link](https://scholars-stage.blogspot.com/2018/12/what-to-read-to-get-into-chinese-history.html)
 
-**Andrew Bateson**
+**[Andrew Batson](https://twitter.com/andrewbatson)**
 
 
 
@@ -86,20 +84,20 @@ _More_
 *   What Xi Jinping really said about Deng Xiaoping and Mao Zedong [link](https://andrewbatson.com/2016/05/31/what-xi-jinping-really-said-about-deng-xiaoping-and-mao-zedong/)
 *   Chinese economic history as seen through eyeglasses [link](https://andrewbatson.com/2017/11/28/chinese-economic-history-as-seen-through-eyeglasses/)
 
-**Bill Bishop**
+**[Bill Bishop](https://twitter.com/niubi)**
 
 
 
 *   What the National People’s Congress tells us about the challenges facing China [link](https://sinocism.com/p/what-the-national-peoples-congress)
 
-**Jordan Schneider**
+**[Jordan Schneider](https://twitter.com/jordanschnyc)**
 
 
 
 *   The US is right to worry about TikTok [link](https://www.lawfareblog.com/us-right-worry-about-tiktok)
 *   TikTok, Trump, and Huawei [link](https://chinatalk.substack.com/p/tiktok-trump-as-c-rate-banker-huaweis)
 
-**Ben Thompson**
+**[Ben Thompson](https://twitter.com/benthompson)**
 
 
 
@@ -108,20 +106,20 @@ _More_
 *   China, leverage, and values [link](https://stratechery.com/2019/china-leverage-and-values/)
 *   Xi Jinping thought [link](https://stratechery.com/2020/xi-jinping-thought-facebooks-blindspot-the-moat-map-revisited/)
 
-**Christopher Balding**
+**[Christopher Balding](https://twitter.com/BaldingsWorld)**
 
 
 
 *   Framing disengagement [link](https://www.baldingsworld.com/2020/07/29/framing-disengagement-with-china/)
 
-**Jacob Heldberg**
+**[Jacob Heldberg](https://twitter.com/jacobhelberg)**
 
 
 
 *   Silicon Valley Can’t Be Neutral in the U.S.-China Cold War [link](https://foreignpolicy.com/2020/06/22/zoom-china-us-cold-war-unsafe/)
 *   In the New Cold War, Deindustrialization Means Disarmament [link](https://foreignpolicy.com/2020/08/12/china-industry-manufacturing-cold-war/)
 
-**Evan Osnos**
+**[Evan Osnos](https://twitter.com/eosnos)**
 
 
 
