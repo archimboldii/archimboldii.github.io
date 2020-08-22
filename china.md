@@ -34,7 +34,7 @@ permalink: /china/
 
 
 
-*   Notes on [Reflections on China’s Stalinist Heritage Part I: A Tyrant's Toolkit](https://scholars-stage.blogspot.com/2019/01/reflections-on-chinas-stalinist.html)
+*   [Reflections on China’s Stalinist Heritage Part I: A Tyrant's Toolkit](https://scholars-stage.blogspot.com/2019/01/reflections-on-chinas-stalinist.html)
     *   Although Garnaut’s “Engineers of the Soul” does a good job of comparing Xi and Stalin’s ideology, Xi isn’t responsible for more than a few thousand deaths.
     *   According to Mao, what is meant by "the people" and "the enemy" are fluid concepts. The concept of "the people" varies in content in different countries and in different periods of history in a given country.
     *   The West is proof that a country does not need a one-party state to become powerful and wealthy. China has two options to deal with this: a) retreat and retrench; b) face the threat head on.
