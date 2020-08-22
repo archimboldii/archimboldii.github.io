@@ -2,5 +2,5 @@
 layout: home
 ---
 [About](/about/)  
-[Notes](/notes/)  
-[Reading lists](/topics/)  
+[Thought stream](/notes/)  
+[Notes and links](/topics/)  
