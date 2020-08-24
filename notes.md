@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Notes
-permalink: /notes/
+title: Thought stream
+permalink: /thought-stream/
 ---
 
 ### 2020-08-17
