@@ -7,5 +7,5 @@ permalink: /notes-links/
 Various topics with links and commentary.  
 
 * [China](/china/)
-* [Cultural evolution](/cultural-evolution)
+* [Cultural evolution](/cultural-evolution/)
 * [Semiconductors](/semis/)
