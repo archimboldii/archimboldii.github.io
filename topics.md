@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Notes and links
-permalink: /notes-links/
+title: Topics
+permalink: /topics/
 ---
 
 Various topics with links and commentary.  
