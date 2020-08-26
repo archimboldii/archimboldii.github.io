@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Thought stream
-permalink: /thought-stream/
+title: Scratchpad
+permalink: /scratchpad/
 ---
 
 ### 2020-08-17
