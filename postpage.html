@@ -11,7 +11,7 @@ permalink: /postpage/
         {{ post.title }}
       </a>
     </h2>
-    <p class="muted small"><time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | "%Y-%m-%d" }}</time></p>
+    <div class="muted small"><time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | "%Y-%m-%d" }}</time></div>
     {{ post.content }}
     <br>
     <hr>
