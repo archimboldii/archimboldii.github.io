@@ -3,19 +3,15 @@ layout: default
 ---
 <a class="muted small" href="/">{{ "Home" | escape }}</a>
 
-{% if page.link %}
-  <h2><a href="{{ page.link }}">
-    {{ page.title }}
-    </a></h2>
-{% else %}
-  <h2><a href="{{ page.url }}">
-    {{ page.title }}
-    </a></h2>
-{% endif %}
+  <h2>
+      <a href="{{ page.link }}">
+        {{ page.title }}
+      </a>
+  </h2>
+
+<p class="muted small">First published on {{ page.date | date: "%B %-d, %Y" }}</p>
 
 {{ content }}
 
-
-<p class="muted small">First published on {{ page.date | date: "%B %-d, %Y" }}</p>
 
 {%- include footer.html -%}
