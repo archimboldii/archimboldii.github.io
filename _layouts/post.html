@@ -8,10 +8,6 @@ layout: default
         {{ page.title }}
       </a>
   </h2>
-
-<p class="muted small">First published on {{ page.date | date: "%B %-d, %Y" }}</p>
-
+<p class="muted small">{{ page.date | date: "%Y-%m-%d" }}</p>
 {{ content }}
-
-
 {%- include footer.html -%}
