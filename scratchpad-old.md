@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Scratchpad
-permalink: /scratchpad/
+title: Old scratchpad
+permalink: /scratchpad-old/
 ---
 
 ### 2020-08-17
