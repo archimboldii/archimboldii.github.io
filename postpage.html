@@ -11,7 +11,7 @@ permalink: /postpage/
         {{ post.title }}
       </a>
     </h2>
-    <div class="muted small"><time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | "%Y-%m-%d" }}</time></div>
+    <div class="muted small"><time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date_to_string }}</time></div>
     {{ post.content }}
     <br>
     <hr>
@@ -19,3 +19,5 @@ permalink: /postpage/
 {% endfor %}
 
 
+
+{{ page.date | date: "%Y-%m-%d" }}
