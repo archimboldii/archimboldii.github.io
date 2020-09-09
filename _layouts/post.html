@@ -4,13 +4,13 @@ layout: default
 <a class="muted small" href="/">{{ "Home" | escape }}</a>
 
 {% if page.link %}
-  <h1><a href="{{ page.link }}">
+  <h2><a href="{{ page.link }}">
     {{ page.title }}
-    </a></h1>
+    </a></h2>
 {% else %}
-  <h1><a href="{{ page.url }}">
+  <h2><a href="{{ page.url }}">
     {{ page.title }}
-    </a></h1>
+    </a></h2>
 {% endif %}
 
 {{ content }}
