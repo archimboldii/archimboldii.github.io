@@ -2,6 +2,7 @@
 layout: post
 title: Why is alcohol a conservative thing?
 date: 2020-08-17
+tag: scratchpad
 ---
 
 Why is alcohol a conservative thing? When Tyler Cowen interviewed Michael Pollan, he implied that Nixon thought drinking made people more conservative:
