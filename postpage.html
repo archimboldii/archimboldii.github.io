@@ -11,9 +11,11 @@ permalink: /postpage/
         {{ post.title }}
       </a>
     </h2>
-    <div class="muted small"><time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date_to_long_string }}</time></div>
+    <p class="muted small">{{ page.date | date: "%Y-%m-%d" }}</p>
     {{ post.content }}
     <br>
     <hr>
   </article>
 {% endfor %}
+
+
