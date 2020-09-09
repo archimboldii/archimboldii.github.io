@@ -2,10 +2,7 @@
 layout: default
 ---
 <a class="muted small" href="/">{{ "Home" | escape }}</a>
-<h1>{{ page.title | escape }}</h1>
 
-
-<h1>
 {% if page.link %}
   <h1><a href="{{ page.link }}">
     {{ page.title }}
@@ -15,7 +12,6 @@ layout: default
     {{ page.title }}
     </a></h1>
 {% endif %}
-</h1>
 
 {{ content }}
 
