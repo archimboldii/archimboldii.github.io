@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Topics
-permalink: /topics/
+permalink: /links/
 ---
 
-Various topics with links and commentary.  
+Links that on the web, sorted by topic.
 
 * [China](/china/)
 * [Cultural evolution](/cultural-evolution/)
