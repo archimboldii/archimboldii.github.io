@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Topics
+title: Links
 permalink: /links/
 ---
 
-Links that on the web, sorted by topic.
+Links on the web, sorted by topic.
 
 * [China](/china/)
 * [Cultural evolution](/cultural-evolution/)
