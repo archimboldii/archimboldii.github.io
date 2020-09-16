@@ -7,7 +7,7 @@ permalink: /scratchpad/
 {% for post in site.posts %}
   {% if post.tags contains "scratchpad" %}
     <article>
-      <h2>
+      <h2 class="muted">
         <time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date_to_string }}</time>
       </h2>
       {{ post.content }}
@@ -16,4 +16,3 @@ permalink: /scratchpad/
   {% endif %}
 {% endfor %}
 
-{{ page.date | date: "%Y-%m-%d" }}
