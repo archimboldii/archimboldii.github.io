@@ -7,9 +7,8 @@ layout: default
 <span class="muted small">•</span>
 <a class="muted small" href="/scratchpad">{{ "Scratchpad" | escape }}</a>
 
-<h2>
+<h1>
   {{ page.title }}
-</h2>
-<p class="muted small">{{ page.date | date: "%Y-%m-%d" }}</p>
+</h1>
+<div class="muted small">{{ page.date | date: "%Y-%m-%d" }}</div>
 {{ content }}
-{%- include footer.html -%}
