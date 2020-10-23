@@ -5,7 +5,7 @@ permalink: /scratchpad/
 ---
 
 {% for post in site.posts %}
-  {% if post.tags == "scratchpad" %}
+  {% if post.tags contains "scratchpad" %}
     <article>
       <h3>
         {{ post.date | date: "%Y-%m-%d" }}
