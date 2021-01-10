@@ -5,7 +5,7 @@ date: 2020-09-16
 tags: scratchpad
 ---
 
-[Winter Sleep](https://en.wikipedia.org/wiki/Winter_Sleep_(film)) is one of best movies I have ever seen, and there’s a  scene where the wife gives a monologue to her husband that I can’t stop thinking about:
+[Winter Sleep](https://en.wikipedia.org/wiki/Winter_Sleep_(film)) is one of best movies I have ever seen. This monologue from wife to husband made it for me:
 
 > “You're actually a well-educated, honest, fair and conscientious man. Generally you are like that. I won't deny it.
 > 
