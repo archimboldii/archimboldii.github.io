@@ -5,4 +5,6 @@ date:   2020-08-06
 tag: scratchpad
 ---
 
-What ideas aren’t politicized today, but will be soon? Commercial space technology will surely have enough policy implications to split the aisle. The specifics of US - China relations are still nascent and largely up for grabs. What else?
+What politically neutral ideas will be partisan issues in 5 years? Commercial space tech? Gene editing? Crypto?
+
+It wasn't obvious in 2019 how we'd divide in response to a pandemic.
