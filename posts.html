@@ -7,7 +7,7 @@ permalink: /posts/
   {% for post in site.posts %}
     {% if post.tags contains "scratchpad" %}
     {% else %}
-      <li><a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></li>
+      <li>{{ post.date }} <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></li>
     {% endif %}    
   {% endfor %}
 </ul>
