@@ -48,7 +48,7 @@ p {
 }
 
 ul {
-  list-style-type: bullet;
+  list-style-type: disc;
   padding-top: 0px;
   padding-right: 20px;
   padding-bottom: 0px;
@@ -56,7 +56,6 @@ ul {
 }
 
 ol {
-  list-style-type: bullet;
   padding-top: 0px;
   padding-right: 20px;
   padding-bottom: 0px;
